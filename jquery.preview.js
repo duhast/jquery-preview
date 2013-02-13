@@ -381,7 +381,7 @@ function Selector(form, selector) {
       }
 
       // If there is no favicon, ignore it.
-      if (!obj.favion_url) {
+      if (!obj.favicon_url) {
         p.favicon = '';
       }
 
